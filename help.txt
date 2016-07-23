@@ -1,1 +1,3 @@
 help.txt
+
+#this is a help message
